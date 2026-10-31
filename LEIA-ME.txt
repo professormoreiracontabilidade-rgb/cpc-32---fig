@@ -1,0 +1,7 @@
+CPC 32 - Curso de Contabilidade Professor Moreira
+
+Publique todos os arquivos desta pasta no mesmo diretório do seu repositório GitHub Pages, inclusive index.html, capa.png e as figurinhas numeradas.
+
+As imagens são verticais, 1080 x 1350 pixels. O index permite navegar, voltar, reiniciar, visualizar miniaturas, baixar cada imagem e continuar de onde parou.
+
+Nota técnica: a provisão dedutível no futuro representa diferença temporária dedutível (possível ativo fiscal diferido). Receita não recebida não é automaticamente excluída da base tributável.
